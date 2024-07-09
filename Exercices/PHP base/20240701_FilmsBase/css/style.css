@@ -1,0 +1,8 @@
+.affiche {
+    width: 100px;
+}
+
+#divFilms{
+    display: flex;
+    flex-wrap: wrap;
+}
