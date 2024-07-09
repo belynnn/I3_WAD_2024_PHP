@@ -1,0 +1,78 @@
+{
+    "0": {
+        "nom": "Ail",
+        "nomscientifique": "Allium sativum",
+        "famille": "Alliacées",
+        "hauteur": "5cm à 12cm",
+        "sol": "Calcaire / Sableux",
+        "catégories": "Légumes",
+        "image": "./images/photos/ail.jpg",
+        "class": "legumes",
+        "resume": "Plante (liliacée) dont les bulbes (têtes d'ail) sont formés de caïeux (gousses d'ail) qui ont une odeur forte et un goût piquant, ce qui les fait rechercher pour l'assaisonnement. (Doué d'un pouvoir antibiotique dû à la garlicine et à l'alisine, l'ail a également une action hypotensive.)",
+        "semis": [
+            {
+                "mois": [],
+                "periode": "",
+                "instruction": ""
+            }
+        ],
+        "plantation": [
+            {
+                "mois": [
+                    "mars",
+                    "debut-avril"
+                ],
+                "periode": "Du 1er Mars au 15 Avril & du 1er Octobre au 30 Novembre",
+                "instruction": "Planter les bourgeons en Automne ou au Printemps — Enterrez-les de 2 ou 3cm dans un sol gardant peu l'humidité. \\nLa plantation en Automne est réservée aux régions aux hivers cléments (Midi et Façade Atlantique) et aux sols drainants. Le bourgeon d'ail pourrit facilement dans un sol humide."
+            }
+        ],
+        "recolte": [
+            {
+                "mois": [
+                    "juin",
+                    "juillet",
+                    "aout"
+                ],
+                "periode": "Du 1er Juin au 31 Août",
+                "instruction": "Déterrez les bulbes lorsque les feuilles fanent et laissez-les sécher sur le sol 2 ou 3 jours avant de les rentrer."
+            }
+        ],
+        "entretien": "Nouez les tiges qui commencent à jaunir de manière à stopper leur développement et favoriser la concentration de la sève dans la tête d'ail pour la faire grossir.",
+        "rotationdescultures": "Attendez 3 ans avant de planter de l'ail au même endroit.",
+        "plantesamies": [
+            "Tomate",
+            "Laitue",
+            "Fraisier",
+            "Carotte"
+        ],
+        "plantesenemies": [
+            "Liliacée",
+            "Pois",
+            "Haricot",
+            "Fèves"
+        ],
+        "conservation": "L'ail se conserve plusieurs mois à température ambiante dans une pièce sèche et bien aérée. La température idéale oscille autour des 0°C. Si les conditions sont bonnes, l'ail peut se conserver jusqu'à 6 mois. L'ail peut également se congeler en gousse une fois la peau enlevée et se conservera 2 mois au congélateur.",
+        "prepation": "Le bulbe d'ail s'épluche ainsi que les gousses qui le composent. \\nAstuce pour peler facilement les gousses : les écraser légèrement avec le plat d'un couteau, la membrane sèche s'enlèvera plus facilement. \\nIl convient ensuite de couper la gousse en deux dans le sens de la hauteur afin d'en retirer le germe vert qui est assez indigeste et serait responsable de la mauvaise odeur que laisse l'ail en bouche.",
+        "cuisson": "La saveur de l'ail ne se développe qu'une fois que la gousse est coupée. Plus elle est coupée finement plus sa saveur sera forte. \\nPour obtenir d'avantage de saveur, il est conseillé d'ajouter de l'ail en fin de cuisson. A contrario, si vous souhaitez ajouter une touche plus discrète à votre plat, laissez la gousse d'ail entière. \\nIl est également possible de cuire l'ail entier sans l'éplucher ni le couper. Cela permet d'obtenir une saveur discrète de noisette qui ne vous laissera pas une mauvaise haleine.",
+        "benefices": [
+            "Aide à la digestion",
+            "Digestif",
+            "Propriétés antimicrobiennes",
+            "Anti-Cholestérol",
+            "Prévention des maladies cardiovasculaires",
+            "Anti-Inflammatoire",
+            "Anti-Allergique",
+            "Antioxydant",
+            "Prévention de certains cancers, comme celui de l'estomac, du colon et du rectum",
+            "Puissant Antiseptique du système digestif et du système respiratoire"
+        ],
+        "contreindication": "",
+        "informationsnutritionnelles": [
+            "Potassium",
+            "Vitamine A",
+            "Vitamine C",
+            "Vitamine E",
+            "Présence d'aillicine (molécule antibiotique) et d'inuline (prébiotique)"
+        ]
+    }
+}
